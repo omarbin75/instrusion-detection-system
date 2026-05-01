@@ -1,0 +1,6 @@
+{
+  "name": "Sentinel - Advanced NIDS/NIPS",
+  "description": "Real-time network intrusion detection and prevention system with live packet monitoring, attack detection, and automatic IP blocking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
